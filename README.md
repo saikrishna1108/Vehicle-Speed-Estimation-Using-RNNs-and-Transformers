@@ -1,3 +1,3 @@
-**Readme: Estimating Vehicle Speeds on Roadways Using RNNs and Transformers**
+##**Estimating Vehicle Speeds on Roadways Using RNNs and Transformers**
 
 This project develops a machine learning model to estimate vehicle speeds from video data using a combination of Recurrent Neural Networks (RNNs) and Transformer models. The approach involves extracting temporal features from video sequences, which are then fed into an advanced neural network architecture blending RNNs and Transformers. The model is trained and validated on a labeled dataset of roadway videos, where each frame is annotated with the corresponding vehicle speed. The goal is to achieve high accuracy in speed estimation, providing a robust tool for traffic monitoring and automated speed enforcement systems.
